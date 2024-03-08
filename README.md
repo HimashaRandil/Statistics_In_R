@@ -11,29 +11,29 @@ Welcome to the comprehensive collection of notes and codes from the CM2062 modul
 
 ## Topics Covered 
 
-Day 1  - Introduction, Data Types and Sequencing in R
+[Day 1  - Introduction, Data Types and Sequencing in R](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%201)
 
-Day 2  - List, Arrays and Matrices in R
+[Day 2  - List, Arrays and Matrices in R](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%202)
 
-Day 3  - Data Frames, Relational and logical Expressions, Import and Export in R 
+[Day 3  - Data Frames, Relational and logical Expressions, Import and Export in R](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%203)
 
-Day 4  - Data Vizualization in R 
+[Day 4  - Data Vizualization in R ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%204)
 
-Day 5  - Data Visualization Using ggplot2 in R 
+[Day 5  - Data Visualization Using ggplot2 in R ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%205)
 
-Day 6  - Descriptive Statistics in R
+[Day 6  - Descriptive Statistics in R](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%206)
 
-Day 7  - Functions and Loops in R 
+[Day 7  - Functions and Loops in R ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%207)
 
-Day 8  - If and Else in R 
+[Day 8  - If and Else in R ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%208)
 
-Day 9  - Hypothesis Testing in R (Introduction)
+[Day 9  - Hypothesis Testing in R (Introduction) ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%209)
 
-Day 10 - t-Tests in R 
+[Day 10 - t-Tests in R ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%2010)
 
-Day 11 - Binomial Test, Proportion Tests, Chi-Square Test in R 
+[Day 11 - Binomial Test, Proportion Tests, Chi-Square Test in R ](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%2011)
 
-Day 12 - Bootstrap Confidence Interval in R
+[Day 12 - Bootstrap Confidence Interval in R](https://github.com/HimashaRandil/Statistics_In_R/tree/main/Lab%20Sheets/Day%2012)
 
 
 
