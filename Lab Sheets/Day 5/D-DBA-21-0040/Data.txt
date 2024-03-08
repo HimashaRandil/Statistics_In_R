@@ -1,0 +1,10 @@
+
+EmpID   EmpName Salary       Dept
+A     Rick 723.30         IT
+B      Dan 615.20 Operations
+C Michelle 711.00         IT
+D     Ryan 829.00         HR
+E     Gary 943.25    Finance
+F   Rashmi 678.00         IT
+G   Pranab 822.50 Operations
+H    Tusar 732.80    Finance
